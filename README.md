@@ -127,9 +127,9 @@ DRY – Don’t repeat yourself – принцип призывает Вас н�
 - DRY/KISS
 - SOLID
 - docker 
-- rabitmq
+- rabitmq/kafka
 - redis
-- tesing 
+- Feathure/Unit test 
 - Оптимизация запросов, устранение лишних запросов 
 - Транзакций
 

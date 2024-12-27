@@ -200,6 +200,6 @@ PSR (PHP Standards Recommendations) — это набор стандартов, 
 - singleton
 - макросы
 - разница между очередью и джобы в дфкфмуд
-- магические методы
+- магические методы (__construct, __destruct, __get, __set, __call, __callStatic, __toString, __invoke, __isset, __unset, __clone)
 - замыкания
 - генераторы

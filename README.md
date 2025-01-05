@@ -240,3 +240,10 @@ D — Durability (Долговечность - Долговечность гар
 - магические методы (__construct, __destruct, __get, __set, __call, __callStatic, __toString, __invoke, __isset, __unset, __clone)
 - замыкания
 - генераторы
+
+- паттерн репозиторий
+- паттерн обсервер
+- зачем дто а не класс
+- where and having difference
+- git flow
+- предметно ориентированное проектирование

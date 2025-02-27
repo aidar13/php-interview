@@ -730,7 +730,13 @@ Visitor — позволяет добавлять новые операции к
 - парадигмы программирования 
 - options, head rest api 
 - joins sql 
+- уровни изоляции в транзакции
+- пустой интерфейс ларавел
+- фантомное чтение
+- за счет чего в асид придердерживется д
+
 
 [⬆️ Back to Top](#Оглавление)
+
 
 https://docs.google.com/document/d/1Iw5nPNV6NjHO53VNEfyYFJLPPnPjxystiQaEFlur4SU/edit?tab=t.0
